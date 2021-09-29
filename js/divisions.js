@@ -1,4 +1,5 @@
-class Divisions {
+
+class Division {
     constructor(x, y, w, h) {
         var options = {
 
